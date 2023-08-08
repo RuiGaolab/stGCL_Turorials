@@ -1,5 +1,5 @@
-.. stGCL documentation master file, created by
-   sphinx-quickstart on Thu Sep 16 19:43:51 2021.
+.. stGCL_Tutorials documentation master file, created by
+   sphinx-quickstart on Tue Aug  1 15:43:58 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
