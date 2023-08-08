@@ -9,8 +9,8 @@ import sphinx_rtd_theme
 
 
 project = 'stGCL_Tutorial'
-copyright = '2023, Zhang Daoliang'
-author = 'Zhang Daoliang'
+copyright = '2023, Daoliang Zhang'
+author = 'Daoliang Zhang'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
