@@ -9,7 +9,7 @@ Welcome to stGCL's documentation!
 ===================================
 
 
-stGCL: A versatile spatial transcriptomics cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics
+stGCL: A versatile cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics
 =====================================================================================================================================================
 
 .. toctree::
@@ -35,4 +35,4 @@ stGCL is a graph contrastive learning-based cross-modality fusion model that inc
 
 Citation
 ========
-Na Yu, Daoliang Zhang, Wei Zhang, Zhiping Liu, Xu Qiao, Chuanyuan Wang, Miaoqing Zhao, Baoting Chao, Wei Li, Yang De Marinis, and Rui Gao. stGCL: A versatile spatial transcriptomics cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics. 2023. (submitted).
+Na Yu, Daoliang Zhang, Wei Zhang, Zhiping Liu, Xu Qiao, Chuanyuan Wang, Miaoqing Zhao, Baoting Chao, Wei Li, Yang De Marinis, and Rui Gao. stGCL: A versatile cross-modality fusion method based on multi-modal graph contrastive learning for spatial transcriptomics 2023. (submitted).
