@@ -24,7 +24,7 @@ stGCL: A versatile cross-modality fusion method based on multi-modal graph contr
    Tutorial 6_Horizontal integration
    Tutorial 7_Vertical integration
    Tutorial 8_Manual region segmentation
-   Tutorial 9_Spatial Alignment
+   Tutorial 9_Spatial alignment
 
 
 .. image:: ../Figures/stGCL.png
